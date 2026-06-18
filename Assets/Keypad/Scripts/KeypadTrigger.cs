@@ -12,19 +12,39 @@ public class KeypadTrigger : MonoBehaviour
     public ThirdPersonController playerController;
 
     private bool playerInside;
+    private bool usingKeypad = false;
 
-    private void Start()
+    private void Awake()
     {
         keypadCamera.Priority = 0;
+        keypadCamera.gameObject.SetActive(false);
     }
 
     private void Update()
     {
-        if (playerInside && UnityEngine.InputSystem.Keyboard.current.eKey.wasPressedThisFrame)
+        if (playerInside &&
+            !usingKeypad &&
+            Keyboard.current.eKey.wasPressedThisFrame)
         {
+            keypadCamera.gameObject.SetActive(true);
             keypadCamera.Priority = 20;
             playerController.enabled = false;
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            usingKeypad = true;
         }
+
+        if (usingKeypad &&
+            Keyboard.current.escapeKey.wasPressedThisFrame)
+        {
+            keypadCamera.Priority = 0;
+            keypadCamera.gameObject.SetActive(false);
+            playerController.enabled = true;
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
+            usingKeypad = false;
+        }
+
     }
 
     private void OnTriggerEnter(Collider other)
