@@ -835,6 +835,7 @@ MeshFilter:
   m_GameObject: {fileID: 65074651}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &69368661 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 448094, guid: 17167dc6dc844dad8cef726ac45a016a, type: 3}
@@ -902,6 +903,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &77748696
@@ -1559,6 +1562,7 @@ Transform:
   m_PrefabInstance: {fileID: 175716270}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &185736416 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -1655,6 +1659,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LookAtOffset: {x: 0, y: 0, z: 0}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &190684029
@@ -4417,6 +4423,7 @@ Transform:
   m_PrefabInstance: {fileID: 403420769}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &409383695
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4540,6 +4547,8 @@ PrefabInstance:
 =======
   m_SourcePrefab: {fileID: 100100000, guid: 7fe4a827493384beea453a7d680fa266, type: 3}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &427990359
@@ -5965,6 +5974,7 @@ Transform:
   m_PrefabInstance: {fileID: 567515585}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &567801701 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -5972,6 +5982,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &568970572
@@ -6209,11 +6221,14 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &572165674 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 448094, guid: 17167dc6dc844dad8cef726ac45a016a, type: 3}
   m_PrefabInstance: {fileID: 94301269}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1 &573622323
@@ -6718,6 +6733,7 @@ MeshFilter:
   m_GameObject: {fileID: 584095394}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &585087601 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 411526, guid: 46bf1c52d3624c7f815b3faaf29b4d83, type: 3}
@@ -6725,6 +6741,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &585955700
@@ -7009,6 +7027,7 @@ MeshFilter:
   m_GameObject: {fileID: 602307821}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &602824880 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 427120, guid: 6b5fd7cab1f845b289850db8ab502261, type: 3}
@@ -7016,6 +7035,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &602867915
@@ -8909,6 +8930,7 @@ Transform:
   m_PrefabInstance: {fileID: 726594453}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &730221019 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5543865414017055196, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -9008,6 +9030,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff2448abfdccb4826856bab7a63c6d68, type: 3}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1 &735668324
@@ -9203,6 +9227,7 @@ Transform:
   m_PrefabInstance: {fileID: 736335091}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &738753862 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -9312,6 +9337,8 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &746329221
@@ -10553,6 +10580,7 @@ MeshFilter:
   m_GameObject: {fileID: 856703718}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &857383854 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -10560,6 +10588,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &858103592
@@ -10862,6 +10892,7 @@ MeshFilter:
   m_GameObject: {fileID: 859319751}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &859830482 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -10869,6 +10900,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &865747125
@@ -13323,6 +13356,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: d7a5e14202ef45918353047c81112c8a, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1128642550 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5543865414017055196, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -13351,6 +13385,8 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1 &1133933253
@@ -14384,6 +14420,7 @@ Transform:
   m_PrefabInstance: {fileID: 1212672657}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1217030319 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 448094, guid: 17167dc6dc844dad8cef726ac45a016a, type: 3}
@@ -14609,6 +14646,8 @@ MeshFilter:
   m_GameObject: {fileID: 1220119117}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &1221041499
@@ -17286,6 +17325,7 @@ Transform:
   m_PrefabInstance: {fileID: 1443839494}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1445699434 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 449138, guid: d7a5e14202ef45918353047c81112c8a, type: 3}
@@ -17403,6 +17443,8 @@ MeshFilter:
   m_GameObject: {fileID: 1449606867}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &1454823018
@@ -17950,6 +17992,7 @@ MeshFilter:
   m_GameObject: {fileID: 1508481596}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1530414928 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5543865414017055196, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -17980,6 +18023,8 @@ MonoBehaviour:
   m_SoftShadowQuality: 0
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &1534535058
@@ -20000,6 +20045,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1762887911 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 449138, guid: d7a5e14202ef45918353047c81112c8a, type: 3}
@@ -20018,6 +20064,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1 &1764214107
@@ -21002,6 +21050,7 @@ Transform:
   m_PrefabInstance: {fileID: 1850863838}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1853099684 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -21078,6 +21127,8 @@ MonoBehaviour:
   keypadCamera: {fileID: 186087535}
   playerController: {fileID: 1762682262}
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &1856387691
@@ -21315,6 +21366,7 @@ MeshFilter:
   m_GameObject: {fileID: 1900328565}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1905241032
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21377,6 +21429,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &1905244619
@@ -22473,6 +22527,7 @@ MeshFilter:
   m_GameObject: {fileID: 1976435276}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1977634833 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5543865414017055196, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -22503,6 +22558,8 @@ MonoBehaviour:
   m_SoftShadowQuality: 0
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &1979352518
@@ -23278,6 +23335,7 @@ MeshFilter:
   m_GameObject: {fileID: 2045399012}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2050142730 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5543865414017055196, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -23308,6 +23366,8 @@ MonoBehaviour:
   m_SoftShadowQuality: 0
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &2063419387
@@ -23669,6 +23729,7 @@ MeshFilter:
   m_GameObject: {fileID: 2071257183}
   m_Mesh: {fileID: 4300000, guid: 8386fa60b76534bc0856f1d023537484, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2074022210 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 413268, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
@@ -23678,6 +23739,8 @@ Transform:
   m_GameObject: {fileID: 2070522958}
   m_CullTransparentMesh: 1
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &2078595938
@@ -23893,6 +23956,7 @@ Transform:
   m_PrefabInstance: {fileID: 2083613010}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &2096932913
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23955,6 +24019,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: aa299f61244143f084a68a37435cb7c4, type: 3}
 =======
 >>>>>>> master
+=======
+>>>>>>> parent of 514b2ee (Agregando candelabros)
 =======
 >>>>>>> parent of 514b2ee (Agregando candelabros)
 --- !u!1001 &2103693336
