@@ -1,26 +1,35 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace NavKeypad { 
 public class KeypadInteractionFPV : MonoBehaviour
 {
     private Camera cam;
     private void Awake() => cam = Camera.main;
+
+    private void Start()
+    {
+        Debug.Log("KeypadInteractionFPV iniciado");
+    }
     private void Update()
     {
-        var ray = cam.ScreenPointToRay(Input.mousePosition);
-
-        if (Input.GetMouseButtonDown(0))
-        {
-            if (Physics.Raycast(ray, out var hit))
+            if (Mouse.current.leftButton.wasPressedThisFrame)
             {
-                if (hit.collider.TryGetComponent(out KeypadButton keypadButton))
+                var ray = cam.ScreenPointToRay(
+                    Mouse.current.position.ReadValue());
+
+                if (Physics.Raycast(ray, out var hit))
                 {
-                    keypadButton.PressButton();
+                    if (hit.collider.TryGetComponent(
+                        out KeypadButton keypadButton))
+                    {
+                        keypadButton.PressButton();
+                    }
                 }
             }
-        }
     }
-}
+
+    }
 }
